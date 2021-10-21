@@ -7,7 +7,7 @@ There are three API calls made in following order to download the XML-
 
 1. Captcha API
 2. OTP Wrapper API
-3. Offline eKYC Wrapper API
+3. Offline eKYC Wrapper API 
 
 All of these APIs have JSON request and response body.
 
